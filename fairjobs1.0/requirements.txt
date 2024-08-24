@@ -1,0 +1,43 @@
+# packaging
+pip>=9
+setuptools>=26
+twine
+wheel>=0.29
+
+# data science
+numpy
+pandas
+
+
+# tests/linter
+black
+coverage
+flake8
+pytest
+yapf
+
+# API
+gcsfs
+google-cloud-storage
+mlflow
+s3fs
+
+# utilities
+six>=1.14
+joblib
+memoized-property
+termcolor
+streamlit
+st_annotated_text
+
+# Scrapping
+bs4
+requests
+
+# NLP
+gensim
+unidecode
+nltk
+
+#Dataframe Website Search Engine
+pyarrow==3.0.0
